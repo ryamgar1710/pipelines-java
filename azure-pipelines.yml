@@ -10,5 +10,5 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- bash: echo "Echoed"
+- bash: echo "Hello world"
   
