@@ -10,5 +10,5 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- task: echo "Echoed"
+- bash: echo "Echoed"
   
